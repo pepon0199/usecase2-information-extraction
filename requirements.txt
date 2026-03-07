@@ -1,0 +1,4 @@
+ollama
+pdfplumber
+faiss-cpu
+numpy
