@@ -74,7 +74,7 @@ LLM → Answer
 }
 
 ```
-### CAG Output
+### RAG Output
 
 ```json
 {
