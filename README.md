@@ -48,14 +48,49 @@ LLM → Answer
 
 ------------------------------------------------------------------------
 
-# Technologies Used
+## Example Output
 
--   Python
--   Ollama
--   Llama3
--   pdfplumber
--   FAISS
--   NumPy
+### CAG Output
+
+```json
+{
+  "company_name": "Accenture",
+  "purpose": "Deliver on the promise of technology and human ingenuity",
+  "industry": "Technology Consulting and Professional Services",
+  "mission": [
+    "Help clients become high-performance businesses",
+    "Deliver innovative technology solutions"
+  ],
+  "key_services": [
+    "Technology consulting",
+    "Digital transformation",
+    "Cloud services"
+  ],
+  "technologies": [
+    "Artificial Intelligence",
+    "Cloud Computing",
+    "Data Analytics"
+  ]
+}
+
+```
+### CAG Output
+
+```json
+{
+ "answer": "Accenture's purpose is to deliver on the promise of technology and human ingenuity."
+}
+```
+
+# Tech Stack
+
+- Python
+- Ollama (Local LLM Runtime)
+- Llama3
+- Nomic Embed Text (Embedding Model)
+- FAISS (Vector Search)
+- NumPy
+- PDFPlumber (PDF extraction)
 
 ------------------------------------------------------------------------
 
