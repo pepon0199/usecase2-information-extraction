@@ -16,4 +16,4 @@ This repository serves as a collection of bootcamp exercises designed to demonst
 Each use case is implemented independently and may use different tools, models, or approaches depending on the problem being solved.
 
 ## Author
-Karl Ayala 
+Karl Pepon Ayala 
